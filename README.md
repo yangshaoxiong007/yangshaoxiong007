@@ -57,11 +57,12 @@
 <table>
 <tr><td>
 
-<a href="https://arxiv.org/abs/2602.01222"><b>🧠 FutureMind: Equipping Small Language Models with Strategic Thinking-Pattern Priors via Adaptive Knowledge Distillation</b></a>
-<br/><sub>SLM + adaptive knowledge distillation · modular 4-stage reasoning pipeline (Problem Analysis → Logical Reasoning → Retrieval)</sub>
+<a href="https://arxiv.org/abs/2602.01222"><b>🧠 FutureMind: Equipping Small Language Models with Strategic Thinking-Pattern Priors via Adaptive Knowledge Distillation</b></a> &nbsp;<a href="https://iclr.cc/virtual/2026/poster/10008144">🎙️<b>ICLR 2026</b></a>
+<br/><sub>SLM + adaptive knowledge distillation · modular 4-stage reasoning pipeline (Problem Analysis → Logical Reasoning → Retrieval) · <b>ICLR 2026 Poster</b></sub><br/><sub>👥 Authors: Shaoxiong Yang, Junting Li, Mengyuan Zhang, Chao Li, Wei Liu, Jian Luan</sub>
 <br/>
 <a href="https://arxiv.org/abs/2602.01222"><img src="https://img.shields.io/badge/arXiv-2602.01222-b31b1b?logo=arxiv&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/First%20Author-Yang%2C%20Shaoxiong-9cf?logo=github"/>
+<a href="https://iclr.cc/virtual/2026/poster/10008144"><img src="https://img.shields.io/badge/ICLR-2026%20Poster-8b0000?logo=googlescholar&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/First%20Author-Shaoxiong%20Yang-9cf?logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Topic-Knowledge%20Distillation-2ea44f"/>
 <img src="https://img.shields.io/badge/Direction-LLM%20Creator%20%26%20Reasoning-1f77b4"/>
 
