@@ -43,7 +43,6 @@
 |:---:|:---|
 | 🧑 Name | **Yang Shaoxiong** |
 | 🎓 Role | Researcher · AI Engineer |
-| 🏢 Affiliation | Ant Group |
 | 🧰 Focus | `Deep Search` · `Deep Research` · `Reinforcement Learning` · `Multi-Agent RL` |
 | 💻 Stack | Python · C++ · PyTorch · RLHF · HuggingFace |
 | 🌱 Now | Heterogeneous-group RL for LLM agents |
