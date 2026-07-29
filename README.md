@@ -1,147 +1,167 @@
-<!-- ✨ DeepSearch researcher profile — upgraded -->
-<div align="center">
+<!-- ✨ DeepSearch researcher profile — self-contained, no flaky dynamic images -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/DeepSearch_Researcher-00E5FF?style=for-the-badge&logo=probot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Yang%20Shaoxiong-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</h1>
 
-<!-- TOP BANNER: big animated gradient with 3D title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,6,12,18,24&height=220&section=header&text=Yang%20Shaoxiong&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20DeepSearch%20Researcher&descSize=20&descColor=00E5FF&animation=fadeIn&stroke=000000&strokeWidth=0" width="100%"/>
+<p align="center">
+  <a href="https://github.com/yangshaoxiong007">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/310664440?v=4?s=180" />
+      <img src="https://avatars.githubusercontent.com/u/310664440?v=4?s=180" width="170" alt="avatar" style="border-radius:50%;box-shadow:0px 0px 28px 6px rgba(0,229,255,0.55);border:4px solid #00E5FF;" />
+    </picture>
+  </a>
+</p>
 
-<!-- glowing avatar ring -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yangshaoxiong007&theme=radical&hide_border=true&background=00000000" height="0"/>
-<a href="https://github.com/yangshaoxiong007">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/310664440?v=4?s=200&width=180&height=180" />
-  <img src="https://avatars.githubusercontent.com/u/310664440?v=4?s=200&width=180&height=180" width="180" style="border-radius:50%;box-shadow:0 0 28px 6px #00E5FF88;border:4px solid #00E5FF;"/>
-</picture>
-</a>
+<p align="center">
+  <sub><i>✨ Toward </i><b>autonomous deep research</b><i> systems powered by reinforcement learning ✨</i></sub>
+</p>
 
-<!-- typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=%E2%9C%A8+Building+autonomous+DeepSearch+systems;%F0%9F%94%AC+LLM+Agents+%7C+Reinforcement+Learning+%7C+RLHF;%F0%9F%A4%9D+Multi-Agent+RL+%7C+End-to-End+Optimization;%F0%9F%92%A1+Knowledge+Distillation+%7C+Agentic+Retrieval" alt="typing"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔍_Deep_Search-00E5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🧠_Deep_Research-7C4DFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎮_RL-FF4081?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤝_Multi--Agent_RL-FFB300?style=flat-square"/>
+</p>
 
 ---
 
-<h3 align="center">🌊 Research Theme</h3>
-<div align="center">
+### 🧭 Research Roadmap
 
-```text
-   ┌─────────────┐     ┌──────────────┐     ┌─────────┐     ┌────────────────┐
-   │ 🔍 Deep     │ ──▶ │ 🧠 Deep      │ ──▶ │ 🎮 RL   │ ──▶ │ 🤝 Multi-Agent │
-   │ Search      │     │ Research     │     │         │     │ RL             │
-   └─────────────┘     └──────────────┘     └─────────┘     └────────────────┘
+```
+   ┌──────────────┐    ┌───────────────┐    ┌──────────┐    ┌─────────────────┐
+   │ 🔍 Deep      │──▶ │ 🧠 Deep       │──▶ │ 🎮 RL    │──▶ │ 🤝 Multi-Agent  │
+   │   Search     │    │   Research    │    │          │    │   RL            │
+   └──────────────┘    └───────────────┘    └──────────┘    └─────────────────┘
                                                                      │
-                                                                     ▼
-                                                            🚀 Autonomous
-                                                               DeepSearch
+                                          ┌──────────────────────────┘
+                                          ▼
+                                 🚀 Autonomous DeepSearch
 ```
 
-</div>
+### 👨‍💻 About Me
 
-<h3 align="center">👨‍💻 About Me</h3>
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🧑 Name | **Yang Shaoxiong** |
-| 🎓 Role | Researcher · AI Engineer |
-| 🧰 Focus | `Deep Search` · `Deep Research` · `Reinforcement Learning` · `Multi-Agent RL` |
-| 💻 Stack | Python · C++ · PyTorch · RLHF · HuggingFace |
-| 🌱 Now | Heterogeneous-group RL for LLM agents |
-| 💬 Ask me | DeepSearch · LLM post-training · agentic retrieval |
-| 😎 Fun fact | My papers literally map to my research directions |
-
-</div>
-
-<h3 align="center">🚀 Selected Publications</h3>
-<div align="center">
 <table>
-<tr><td>
+<tr><td valign="top" width="50%">
 
-<a href="https://arxiv.org/abs/2602.01222"><b>🧠 FutureMind: Equipping Small Language Models with Strategic Thinking-Pattern Priors via Adaptive Knowledge Distillation</b></a> &nbsp;<a href="https://iclr.cc/virtual/2026/poster/10008144">🎙️<b>ICLR 2026</b></a>
-<br/><sub>SLM + adaptive knowledge distillation · modular 4-stage reasoning pipeline (Problem Analysis → Logical Reasoning → Retrieval) · <b>ICLR 2026 Poster</b></sub><br/><sub>👥 Authors: Shaoxiong Yang, Junting Li, Mengyuan Zhang, Chao Li, Wei Liu, Jian Luan</sub>
-<br/>
-<a href="https://arxiv.org/abs/2602.01222"><img src="https://img.shields.io/badge/arXiv-2602.01222-b31b1b?logo=arxiv&logoColor=white"/></a>
-<a href="https://iclr.cc/virtual/2026/poster/10008144"><img src="https://img.shields.io/badge/ICLR-2026%20Poster-8b0000?logo=googlescholar&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/First%20Author-Shaoxiong%20Yang-9cf?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Topic-Knowledge%20Distillation-2ea44f"/>
-<img src="https://img.shields.io/badge/Direction-LLM%20Creator%20%26%20Reasoning-1f77b4"/>
+```yaml
+🧑 name: Yang Shaoxiong
+🎓 role: Researcher / AI Engineer
+🧰 focus:
+   - Deep Search
+   - Deep Research
+   - Reinforcement Learning
+   - Multi-Agent RL
+🌱 now: Heterogeneous-group RL
+            for LLM agents
+💬 ask: DeepSearch & LLM training
+```
 
-</td></tr>
-<tr><td>
+</td><td valign="top" width="50%">
 
-<a href="https://aclanthology.org/2026.acl-long.1399/"><b>🤝 End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning</b></a>
-<br/><sub>Multi-Agent Search Systems (MASS) + heterogeneous-group RL · end-to-end role optimization · ACL 2026</sub>
-<br/>
-<a href="https://aclanthology.org/2026.acl-long.1399/"><img src="https://img.shields.io/badge/ACL-2026-blue?logo=anthropic&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Type-Long%20Paper-8a2be2"/>
-<img src="https://img.shields.io/badge/Topic-Multi--Agent%20Search-orange"/>
-<img src="https://img.shields.io/badge/Direction-Deep%20Search%20%26%20MA--RL-ff7f0e"/>
+```yaml
+💻 stack:
+   - Python  · C++
+   - PyTorch · RLHF
+   - HuggingFace
+   - Redis · Docker · Git
+🎯 goal: end-to-end optimized
+         multi-agent deep
+         research systems
+😎 fact: my papers map
+         to my research dirs
+```
 
 </td></tr>
 </table>
-</div>
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
+### 🚀 Selected Publications
 
-<!-- rows of tech badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=watermark"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/RLHF-FF6F00?style=for-the-badge&logo=reinforcementlearning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yangshaoxiong007&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangshaoxiong007&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yangshaoxiong007&theme=radical&hide_border=true&background=00000000" width="96%"/>
+<details>
+<summary><b>📜 Tap to expand — 2 selected papers</b> ✨</summary>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yangshaoxiong007&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=00E5FF" width="96%"/>
+<table>
+<tr><td>
 
-</div>
+#### 🧠 Paper 01 · FutureMind  &nbsp; <img src="https://img.shields.io/badge/ICLR-2026_Poster-8b0000?logo=googlescholar&logoColor=white"/>
 
-<h3 align="center">🐍 Contribution Graph Animation</h3>
-<p align="center">
-  <img src="https://github.com/yangshaoxiong007.png?raw=true" alt="contribution" width="90%" style="border-radius:12px;"/>
+**FutureMind: Equipping Small Language Models with Strategic Thinking-Pattern Priors via Adaptive Knowledge Distillation**
+
+> Small Language Models (SLMs) are attractive for cost/resource-limited settings but struggle with complex, knowledge-intensive tasks. FutureMind is a **modular reasoning framework** that equips SLMs with *strategic thinking-pattern priors* via **adaptive knowledge distillation** from LLMs. It introduces a dynamic reasoning pipeline with four key modules — **Problem Analysis → Logical Reasoning → (Reasoning) → Retrieval** — enabling structured reasoning + effective retrieval for SLMs.
+
+<p>
+  <a href="https://arxiv.org/pdf/2602.01222"><img src="https://img.shields.io/badge/📄_arXiv_PDF-2602.01222-b31b1b?style=flat-square&logo=arxiv&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2602.01222"><img src="https://img.shields.io/badge/🌐_abstract-grey?style=flat-square&logo=arxiv&logoColor=white"/></a>
+  <a href="https://iclr.cc/virtual/2026/poster/10008144"><img src="https://img.shields.io/badge/🎙️_ICLR_Poster-8b0000?style=flat-square"/></a>
 </p>
 
-<h3 align="center">📌 Featured Repository</h3>
-<div align="center">
+👥 **Authors:** Shaoxiong Yang *(first)*, Junting Li, Mengyuan Zhang, Chao Li, Wei Liu, Jian Luan
 
-<a href="https://github.com/yangshaoxiong007/DeepSearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yangshaoxiong007&repo=DeepSearch&theme=radical&hide_border=true"/></a>
+```
+LLM Creator & Reasoning  ◀──  Knowledge Distillation  ──▶  Retrieval-Augmented
+```
 
-</div>
+</td></tr>
+<tr><td>
+
+#### 🤝 Paper 02 · Multi-Agent Search + RL  &nbsp; <img src="https://img.shields.io/badge/ACL-2026-blue?logo=anthropic&logoColor=white"/>
+
+**End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning**
+
+> LLMs are versatile but limited by static knowledge and single-inference controllability. **Multi-Agent Search Systems (MASS)** coordinate specialized LLM agents with search tools via task decomposition + retrieval-augmented solving. This work proposes **Heterogeneous-Group-Based Reinforcement Learning** for **end-to-end optimization** of role-specialized agents — automating what prompt-engineering / SFT previously did labor-intensively.
+
+<p>
+  <a href="https://aclanthology.org/2026.acl-long.1399/"><img src="https://img.shields.io/badge/📄_ACL_Anthology-2026.acl--long.1399-blue?style=flat-square&logo=anthropic&logoColor=white"/></a>
+  <a href="https://aclanthology.org/2026.acl-long.1399.pdf"><img src="https://img.shields.io/badge/📑_PDF-grey?style=flat-square"/></a>
+</p>
+
+```
+Deep Search / Deep Research  ◀──  Multi-Agent RL  ──▶  Role-specialized End-to-End Optimization
+```
+
+</td></tr>
+</table>
+
+</details>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RLHF-FF6F00?style=flat-square&logo=reinforcementlearning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+### 📌 Featured Repository
+
+<p align="center">
+  <a href="https://github.com/yangshaoxiong007/DeepSearch">
+    <img src="https://img.shields.io/badge/📚_repo-DeepSearch-00E5FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/yangshaoxiong007/DeepSearch/blob/main/showcase.md">
+    <img src="https://img.shields.io/badge/🚀_showcase-publications-FF4081?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">✉️ Connect</h3>
-<div align="center">
+### 🔗 Connect
 
-<a href="https://github.com/yangshaoxiong007"><img src="https://img.shields.io/badge/GitHub-%40yangshaoxiong007-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/yangshaoxiong007/DeepSearch"><img src="https://img.shields.io/badge/Repo-DeepSearch-00E5FF?style=for-the-badge&logo=bookstack&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=yangshaoxiong007&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+<p align="center">
+  <a href="https://github.com/yangshaoxiong007"><img src="https://img.shields.io/badge/GitHub-@yangshaoxiong007-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yangshaoxiong007/DeepSearch"><img src="https://img.shields.io/badge/DeepSearch_repo-00E5FF?style=for-the-badge&logo=bookstack&logoColor=black"/></a>
+</p>
 
-</div>
-
-<br/>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,6,12,18,24&height=120&section=footer" width="100%"/>
-
-<sub>⭐ From <a href="https://github.com/yangshaoxiong007">yangshaoxiong007</a> · _"Toward autonomous deep research."_</sub>
-
-</div>
+<p align="center">
+  <sub>⭐ From <a href="https://github.com/yangshaoxiong007"><b>yangshaoxiong007</b></a> · <i>"Toward autonomous deep research."</i></sub>
+</p>
