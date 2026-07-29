@@ -190,8 +190,7 @@ LLMs are versatile but limited by static knowledge cutoffs and single-inference 
 
 <p align="center">
   <a href="https://github.com/yangshaoxiong007/DeepSearch"><img src="https://img.shields.io/badge/📚_repo-DeepSearch-00E5FF?style=for-the-badge&logo=bookstack&logoColor=black"/></a>
-  &nbsp;
-  <a href="https://github.com/yangshaoxiong007/DeepSearch/blob/main/showcase.md"><img src="https://img.shields.io/badge/🚀_showcase-publications-FF4081?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  
 </p>
 
 ---
