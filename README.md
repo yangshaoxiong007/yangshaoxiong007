@@ -97,7 +97,7 @@
   <a href="https://iclr.cc/virtual/2026/poster/10008144"><img src="https://img.shields.io/badge/🎙️_ICLR_Poster-8b0000?style=flat-square"/></a>
 </p>
 
-👥 **Authors:** Shaoxiong Yang *(first)*, Junting Li, Mengyuan Zhang, Chao Li, Wei Liu, Jian Luan
+👥 **Authors:** **Yang Shaoxiong** *(first)*, Junting Li, Mengyuan Zhang, Chao Li, Wei Liu, Jian Luan
 
 ```
 LLM Creator & Reasoning  ◀──  Knowledge Distillation  ──▶  Retrieval-Augmented
@@ -111,6 +111,8 @@ LLM Creator & Reasoning  ◀──  Knowledge Distillation  ──▶  Retrieval
 **End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning**
 
 > LLMs are versatile but limited by static knowledge and single-inference controllability. **Multi-Agent Search Systems (MASS)** coordinate specialized LLM agents with search tools via task decomposition + retrieval-augmented solving. This work proposes **Heterogeneous-Group-Based Reinforcement Learning** for **end-to-end optimization** of role-specialized agents — automating what prompt-engineering / SFT previously did labor-intensively.
+
+👥 **Authors:** Chen Guanzhong *(first)*, **Yang Shaoxiong** *(second)*, Li Chao, Liu Wei, Luan Jian, Xu Zenglin
 
 <p>
   <a href="https://aclanthology.org/2026.acl-long.1399/"><img src="https://img.shields.io/badge/📄_ACL_Anthology-2026.acl--long.1399-blue?style=flat-square&logo=anthropic&logoColor=white"/></a>
